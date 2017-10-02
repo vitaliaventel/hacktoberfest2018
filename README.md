@@ -20,3 +20,4 @@ Make your signature here:
 8. Pyker Vasilevich
 9. Valentin Valentinovich
 10. Drochila Ivan
+11. Sosun Dmitro
