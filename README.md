@@ -7,4 +7,4 @@ Make your signature here:
 4. Hui Chng
 5. Kartik Shankhavaram
 6. Zhenya Symon
-7. Valerii Artemenko
+7. Valerii Artemenko - SF Dev.
