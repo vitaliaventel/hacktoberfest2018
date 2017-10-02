@@ -5,4 +5,6 @@ Make your signature here:
 2. David Gómez
 3. Arpit Batra
 4. Hui Chng
-5. Valerii Artemenko
+5. Kartik Shankhavaram
+6. Zhenya Symon
+7. Valerii Artemenko
