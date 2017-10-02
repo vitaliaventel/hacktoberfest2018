@@ -2,4 +2,4 @@
 
 Make your signature here:
 1. Vitalii Leshchenko
-2. Yevhenii Symon
+2. Zhenya Symon
