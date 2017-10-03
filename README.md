@@ -1,4 +1,4 @@
-﻿# hactoberfest2017
+﻿# hacktoberfest2017
 
 Instructions
 
