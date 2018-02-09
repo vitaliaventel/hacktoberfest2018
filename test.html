@@ -16,12 +16,13 @@ url('https://www.sfdcstatic.com/system/shared/common/assets/fonts/SalesforceSans
 <script type='text/javascript' src='https://service.force.com/embeddedservice/4.0/esw.min.js'></script>
  
     <script type='text/javascript' id="myscript">
-        var initESW = function (gslbBaseURL) {
+     var A = 'JIM';   
+     var initESW = function (gslbBaseURL) {
             embedded_svc.settings.displayHelpButton = true; //Or false
             embedded_svc.settings.language = ''; //For example, enter 'en' or 'en-US'
 
             embedded_svc.settings.prepopulatedPrechatFields = {
-                FirstName: "TR"
+                FirstName: A
             };
 
 
@@ -53,18 +54,7 @@ url('https://www.sfdcstatic.com/system/shared/common/assets/fonts/SalesforceSans
             initESW('https://service.force.com');
         }
     </script>
-    <script>
-        var jsonScript = document.getElementById('myscript');
-        var json = JSON.parse(jsonScript.innerHTML);
-            console.log('JSON Page : ' + json);
-
-        console.log('Name is : ' + json["FirstName"]);
-        json["FirstName"] = "My Name";
-     console.log('Name is : ' + json["FirstName"]);
-        jsonScript.innerHTML = JSON.stringify(json, null, 2);
-        console.log('Script modified - check your developer tools to see the changes');
-    </script>
  
-<input type="button" value="123">
+<input type="button" value="123423">
 </body>
 </html>
