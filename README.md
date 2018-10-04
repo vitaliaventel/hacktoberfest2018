@@ -17,7 +17,7 @@
 1. Vitalii Leshchenko
 2. Fredrik Engstrand
 3. Sho Zavgodno
-
+4. Now deployment feature
 
 # Hacktoberfest 2017 participants:
 1. Vitalii Leshchenko
