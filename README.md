@@ -1,4 +1,4 @@
-﻿# hacktoberfest2017
+﻿# hacktoberfest2018
 
 Instructions
 
@@ -10,6 +10,10 @@ Instructions
 - Celebrate - you've done your first pull request!
 
 Make your signature here:
+1. Vitalii Leshchenko
+
+
+Hacktoberfest 2017 participants:
 1. Vitalii Leshchenko
 2. David Gómez
 3. Arpit Batra
