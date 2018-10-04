@@ -1,6 +1,6 @@
 ﻿# hacktoberfest2018
 
-Instructions
+# Instructions
 
 - Fork this Repository using the button at the top
 - Clone it to your PC
@@ -8,6 +8,10 @@ Instructions
 - Commit and push
 - Create a pull request
 - Celebrate - you've done your first pull request!
+
+
+# HACKTOBERFEST DETAILS
+- [FOLLOW THE RULES!](https://hacktoberfest.digitalocean.com/details)
 
 Make your signature here:
 1. Vitalii Leshchenko
