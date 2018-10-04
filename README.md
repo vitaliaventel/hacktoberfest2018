@@ -16,6 +16,7 @@
 # Hacktoberfest 2018 participants:
 1. Vitalii Leshchenko
 2. Fredrik Engstrand
+3. Sho Zavgodno
 
 
 # Hacktoberfest 2017 participants:
