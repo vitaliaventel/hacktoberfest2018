@@ -11,6 +11,7 @@ Instructions
 
 Make your signature here:
 1. Vitalii Leshchenko
+2. Fredrik Engstrand
 
 
 Hacktoberfest 2017 participants:
