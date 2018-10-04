@@ -8,7 +8,6 @@ Instructions
 - Commit and push
 - Create a pull request
 - Celebrate - you've done your first pull request!
-[MAIN] https://hacktoberfest.digitalocean.com/details
 
 Make your signature here:
 1. Vitalii Leshchenko
