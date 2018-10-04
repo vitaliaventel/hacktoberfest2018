@@ -13,12 +13,12 @@
 # HACKTOBERFEST DETAILS
 - [FOLLOW THE RULES!](https://hacktoberfest.digitalocean.com/details)
 
-Make your signature here:
+# Hacktoberfest 2018 participants:
 1. Vitalii Leshchenko
 2. Fredrik Engstrand
 
 
-Hacktoberfest 2017 participants:
+# Hacktoberfest 2017 participants:
 1. Vitalii Leshchenko
 2. David Gómez
 3. Arpit Batra
