@@ -19,7 +19,7 @@
 3. Sho Zavgodno
 4. Bruno Babojelic
 5. Nguyen Do
-6.  Harsh Gupta
+6. Harsh Gupta
 
 
 # Hacktoberfest 2017 participants:
@@ -55,4 +55,5 @@
 30. Timothy Wung
 31. Neeraj Verma
 32. Ayush Jain
-33. Pasan Jayawickrama
+33. shehani
+34. Pasan Jayawickrama
