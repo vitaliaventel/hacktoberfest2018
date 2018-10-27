@@ -20,6 +20,7 @@
 4. Bruno Babojelic
 5. Nguyen Do
 6. Harsh Gupta
+7. Hale Ilkcakin
 
 
 # Hacktoberfest 2017 participants:
