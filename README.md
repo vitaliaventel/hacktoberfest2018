@@ -22,6 +22,7 @@
 6. Harsh Gupta
 7. Hale Ilkcakin
 8. Admir Kurtovic
+9. Ricardo Barba
 
 
 # Hacktoberfest 2017 participants:
