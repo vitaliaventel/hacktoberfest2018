@@ -21,6 +21,7 @@
 5. Nguyen Do
 6. Harsh Gupta
 7. Hale Ilkcakin
+8. Ricardo Barba
 
 
 # Hacktoberfest 2017 participants:
