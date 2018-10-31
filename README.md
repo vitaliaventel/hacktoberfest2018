@@ -1,4 +1,4 @@
-﻿# hacktoberfest2018
+# hacktoberfest2018
 
 # Instructions
 
@@ -24,6 +24,7 @@
 8. Admir Kurtovic
 9. Ricardo Barba
 10. Yunus Emre Cicen
+11. Gökhan Tok
 
 
 # Hacktoberfest 2017 participants:
