@@ -25,6 +25,7 @@
 9. Ricardo Barba
 10. Yunus Emre Cicen
 11. Gökhan Tok
+12. Héctor Quintero
 
 
 # Hacktoberfest 2017 participants:
